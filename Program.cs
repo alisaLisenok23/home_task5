@@ -59,4 +59,4 @@ for(int i=0;i<array3.Length;i++)
     array3[i]=val.Next();
 PrintArray(array3);
 result= find_min_max(array3);
-console.WriteLine("разница межу минимальным и максимальным значениями массива = "+result);
+Console.WriteLine("разница межу минимальным и максимальным значениями массива = "+result);
