@@ -23,4 +23,16 @@ Random val=new Random();
 for (int i=0;i<array.Length;i++)
     array[i]=val.Next(100,999);//создание массива случайных трехзначных чисел
 PrintArray(array);//вызов функции вывода на экран массива
-Console.WriteLine( "в массиве "+Count_arr(array)+"четных элемента");
+Console.WriteLine( "в массиве "+Count_arr(array)+" четных элемента");
+Console.WriteLine("задать массив заполненный случайными числами. найти сумму элементов, стоящих нa нечетных позициях");
+int[] array2=new int[10];
+int sum=0;
+for (int i=0;i<array2.Length;i++)
+    array2[i]=val.Next(0,10);
+PrintArray(array2);
+for (int i =0;i<array2.Length;i++)
+{
+    if(i%2!=0)
+    sum+=array2[i];
+}
+Console.WriteLine("сумма нечетных элементов массива = "+sum);
