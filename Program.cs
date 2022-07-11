@@ -56,7 +56,7 @@ Console.WriteLine("задать массив вещественных чисел
 int[] array3=new int[10];
 int result=0;
 for(int i=0;i<array3.Length;i++)
-    array3[i]=val.Next();
+    array3[i]=val.Next(-100,100);
 PrintArray(array3);
 result= find_min_max(array3);
 Console.WriteLine("разница межу минимальным и максимальным значениями массива = "+result);
