@@ -1,0 +1,15 @@
+C:\Users\vital\Desktop\alisa\bin\Debug\net6.0\alisa.exe
+C:\Users\vital\Desktop\alisa\bin\Debug\net6.0\alisa.deps.json
+C:\Users\vital\Desktop\alisa\bin\Debug\net6.0\alisa.runtimeconfig.json
+C:\Users\vital\Desktop\alisa\bin\Debug\net6.0\alisa.dll
+C:\Users\vital\Desktop\alisa\bin\Debug\net6.0\alisa.pdb
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.csproj.AssemblyReference.cache
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.AssemblyInfoInputs.cache
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.AssemblyInfo.cs
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.csproj.CoreCompileInputs.cache
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.dll
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\refint\alisa.dll
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.pdb
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\alisa.genruntimeconfig.cache
+C:\Users\vital\Desktop\alisa\obj\Debug\net6.0\ref\alisa.dll
